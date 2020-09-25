@@ -1,0 +1,29 @@
+.body{
+  background-color: #e0ece4;
+}
+.hr{
+  background-color: white;
+  border-style:none;
+  width:100%;
+}
+.h1{
+  color: #1a1c20;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: red;
+}
+.h3{
+  color: #132743;
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+.h2{
+  color: #132743;
+  
+}
+.circular{
+  border-radius: 100%;
+}
+.image:hover{
+  background-color: gold;
+}
